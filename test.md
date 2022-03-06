@@ -17,7 +17,7 @@ Date: 2022-02-28
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BEPb/first-contributions)
 ![GitHub repo size](https://img.shields.io/github/repo-size/BEPb/first-contributions) 
 ![GitHub](https://img.shields.io/github/license/BEPb/first-contributions) 
-![GitHub last commit](https://img.shields.io/github/last-commit/BEPb/github-contributions)
+![GitHub last commit](https://img.shields.io/github/last-commit/BEPb/first-contributions)
 ![GitHub User's stars](https://img.shields.io/github/stars/BEPb?style=social)
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.github-contributions" alt="visitors"/>
