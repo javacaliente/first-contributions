@@ -24,11 +24,10 @@ Date: 2022-03-06
 <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.github-contributions" alt="visitors"/>
 </p>
 
-
-
 Read this in other languages: [Russian](README.ru.md), [हिन्दी](README.hindi.md), [中國人](README.chinese.md)
 
 ....text
+
 
 p.s.s. If you liked the project, do not forget to put a star, and if you are interested, then sign up as a follower.
 

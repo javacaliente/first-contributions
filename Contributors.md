@@ -8,6 +8,7 @@
 - [Riyaz Shaikh](https://github.com/riyaz2022)
 - [Nishant Srinivasan](https://github.com/nishant-sr)
 - [Mohamed Adham](https://github.com/mohamedAdhamc)
+- [Lucidity](https://github.com/Luc1d1ty)
 - [Sourabh prasad](https://github.com/DxLRate)
 - [Antony Otero](https://github.com/antonyotero)
 - [Adithya K Shetty]
@@ -77,6 +78,7 @@
 - [Shajith Hameed](https://github.com/d3xferno)
 - [Deepak Lakhera](https://github.com/dLakhera)
 - [Phillip N.] (https://github.com/phuclinh9802)
+- [Emmanuel Alao] (https://github.com/omogidi)
 - [Dhineshkumar R] (https://github.com/dk017)
 - [Mohammed Thayyib] (https://github.com/beingconscious)
 - [Daniel B.]  (https://github.com/Danvs60)
@@ -5549,6 +5551,7 @@ Michael Wong
 - [Gerva Monsalve](https://github.com/Germonsalve)
 - [Lesnee](https://github.com/lesnee)
 - [Eiji](https://github.com/eijiok)
+- [Zyad Tarek](https://github.com/ZyadTarek)
 - [Moretza](https://github.com/mrtztg)
 - [Shreyas Sukhadeve](https://github.com/Shreyas-SAS)
 - [Brad Kabosky](https://github.com/BradKabosky)
@@ -5567,4 +5570,4 @@ Michael Wong
 - [WMA](https://github.com/wminaung)
 - [Chabazite](https://github.com/chabazite)
 - [Mega](https://github.com/mega2799)
-- [Thomas Warren](https://github.com/ThomasWarren2147)
+- [Thomas Warren](https://github.com/ThomasWarren2147)2
