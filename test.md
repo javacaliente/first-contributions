@@ -7,7 +7,7 @@ Python 3.9 программа бота github (для массовой подп�
 
 Version: 0.1
 Author: Andrej Marinchenko
-Date: 2022-02-28
+Date: 2022-03-06
 """
 ```
 2. for readme file
