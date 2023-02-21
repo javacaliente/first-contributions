@@ -1,6 +1,6 @@
-
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Aditya Mohite](https://github.com/adityamohite25)
 - [Andrej Marinchenko](https://github.com/BEPb)
 - [Vincent Limo](https://github.com/v-limo)
 - [Rahul Ghetia](https://github.com/Rahul6725)
