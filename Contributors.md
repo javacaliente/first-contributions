@@ -104,6 +104,7 @@
 - [Gabriel Pereira] (https://github.com/gsp-boop)
 - [Oliver Looney] (https://github.com/Oliver-Looney)
 - [Hemanth ] (https://github.com/confusedBoy)
+- [Angelika Kasandra Holod](https://github.com/a-k-holod)
 - [Dylan Trepos] (https://github.com/dylantrepos)
 - [Shoib Ansari] (https://github.com/reddishshoib )
 - [Jordan Trinder] (https://github.com/JordanTrind)
