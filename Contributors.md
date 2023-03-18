@@ -159,6 +159,7 @@
 - [Vamsi Vemur] https://github.com/ramv2014
 - [Ayden Kauffman] (https://github.com/AKauffy)
 - [Neevan] (https://github.com/neevan01)
+- [Nitesh Mishra](https://github.com/Nitesh232)
 - [Saurabh] (https://github.com/saurabh1046)
 - [Kodeiak] (https://github.com/Kodeiak/)
 - [Raj Singh] (https://github.com/singhrajgithub)
