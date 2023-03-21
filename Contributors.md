@@ -11,6 +11,7 @@
 - [Lucidity](https://github.com/Luc1d1ty)
 - [Sourabh prasad](https://github.com/DxLRate)
 - [Antony Otero](https://github.com/antonyotero)
+- [Michael Zubenko](https://github.com/flowr1x)
 - [Adithya K Shetty]
 - [Eric Manfred](https://github.com/emanfred)
 - [Scott Burton](https://github.com/klrqn)
