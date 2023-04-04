@@ -128,6 +128,7 @@
 - [Kaiden H] (https://github.com/dratsuC)
 - [Veronica Yap]
 - [Bharat] (https://github.com/nicobreins)
+- [Kaustubh Ajgaonkar] (https://github.com/kaustubh43)
 - [Satyam Kumar] (https://github.com/officSatyam)
 - [Stacy Chiok]
 - [HyperLeafy] (https://github.com/HyperLeafy)
